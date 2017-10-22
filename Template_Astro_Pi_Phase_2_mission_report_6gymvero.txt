@@ -1,0 +1,116 @@
+
+European Astro Pi Challenge
+2016 - 2017
+
+Phase 2 – Mission Report 
+
+
+In order for you and your team to have the chance to have your computer codes run on the International Space Station, you have to come up with a solution for the two missions that ESA astronaut Thomas Pesquet assigned to you. The scientific value of your mission will be of major importance. It’s also very important that your mission meets all the requirements and constraints for phase 2. You can find more information here.
+
+You must include a full description of your primary and secondary missions using this mission report template. The reports must be submitted in English.
+Please note that you should not use this report to submit your codes. 
+
+Primary mission
+Main objective(s): To detect crew presence in the Columbus module using the ISS Astro Pi and its sensors
+
+
+
+
+
+
+
+
+
+
+In Table 1, describe the different steps of your experiment plan. Identify between 5 to 10 steps. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Secondary  mission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+
+
+
+
